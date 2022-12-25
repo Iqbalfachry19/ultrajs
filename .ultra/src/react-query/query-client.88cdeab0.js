@@ -1,0 +1,1 @@
+import{QueryClient as e}from"@tanstack/react-query";export const queryClient=new e({defaultOptions:{queries:{suspense:!0}}});

@@ -1,0 +1,2 @@
+/* esm.sh - esbuild bundle(@twind/preset-tailwind@1.0.1) deno production */
+import t from"/v99/@twind/preset-tailwind@1.0.1/X-ZS8q/deno/defaultTheme.js";import i from"/v99/@twind/preset-tailwind@1.0.1/X-ZS8q/deno/preflight.js";import o from"/v99/@twind/preset-tailwind@1.0.1/X-ZS8q/deno/rules.js";import e from"/v99/@twind/preset-tailwind@1.0.1/X-ZS8q/deno/variants.js";function l({disablePreflight:r}={}){return{preflight:r?void 0:i,theme:t,variants:e,rules:o}}export{l as default};

@@ -1,0 +1,31 @@
+{
+  "imports": {
+    "./client.tsx": "/client.a2ec2de2.js",
+    "./src/app.tsx": "/src/app.0caadf5d.js",
+    "./src/react-query/query-client.ts": "/src/react-query/query-client.88cdeab0.js",
+    "./src/twind/twind.config.ts": "/src/twind/twind.config.7ac6a1d5.js",
+    "./src/twind/twind.ts": "/src/twind/twind.4d2d0816.js",
+    "https://deno.land/": "/vendor/browser/deno.land/",
+    "https://esm.sh/": "/vendor/browser/esm.sh/",
+    "react/jsx-runtime": "/vendor/browser/esm.sh/stable/react@18.2.0/es2022/jsx-runtime.js",
+    "ultra/hydrate.js": "/vendor/browser/deno.land/x/ultra@v2.1.7/hydrate.js",
+    "react-router-dom": "/vendor/browser/esm.sh/v99/react-router-dom@6.3.0/X-ZS9yZWFjdA/es2022/react-router-dom.js",
+    "react-helmet-async": "/vendor/browser/esm.sh/v99/react-helmet-async@1.3.0/X-ZS9yZWFjdA/es2022/react-helmet-async.js",
+    "@tanstack/react-query": "/vendor/browser/esm.sh/v99/@tanstack/react-query@4.2.3/X-ZS9yZWFjdA/es2022/react-query.js",
+    "ultra/hooks/use-asset.js": "/vendor/browser/deno.land/x/ultra@v2.1.7/hooks/use-asset.js",
+    "@twind/core": "/vendor/browser/esm.sh/v99/@twind/core@1.0.1/es2022/core.js",
+    "@twind/preset-autoprefix": "/vendor/browser/esm.sh/v99/@twind/preset-autoprefix@1.0.1/es2022/preset-autoprefix.js",
+    "@twind/preset-tailwind": "/vendor/browser/esm.sh/v99/@twind/preset-tailwind@1.0.1/X-ZS8q/es2022/preset-tailwind.js",
+    "react": "/vendor/browser/esm.sh/stable/react@18.2.0/es2022/react.js",
+    "react-dom/client": "/vendor/browser/esm.sh/v99/react-dom@18.2.0/es2022/client.js"
+  },
+  "scopes": {
+    "/vendor/browser/deno.land/": {
+      "/x/": "/vendor/browser/deno.land/x/"
+    },
+    "/vendor/browser/esm.sh/": {
+      "/stable/": "/vendor/browser/esm.sh/stable/",
+      "/v99/": "/vendor/browser/esm.sh/v99/"
+    }
+  }
+}

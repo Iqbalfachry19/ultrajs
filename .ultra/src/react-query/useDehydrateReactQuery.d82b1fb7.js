@@ -1,0 +1,1 @@
+import{jsx as r}from"react/jsx-runtime";import{dehydrate as t}from"@tanstack/react-query";import e from"ultra/hooks/use-server-inserted-html.js";export function useDehydrateReactQuery(s){e(()=>{let e=t(s);return r("script",{dangerouslySetInnerHTML:{__html:"window.__REACT_QUERY_DEHYDRATED_STATE = "+JSON.stringify(e)}})})}
